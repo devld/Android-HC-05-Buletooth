@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Arduino HC-05</string>
+    <string name="app_name">HC-05</string>
     <string name="act_discovering">Discovering new device</string>
     <string name="btn_send">Send</string>
     <string name="unknown_device">Unknown Device</string>
